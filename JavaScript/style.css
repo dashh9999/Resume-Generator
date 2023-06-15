@@ -1,0 +1,19 @@
+/* body{
+    background-color: rgb(181 119 130);
+} */
+
+    .formcontrol {
+        width: 100%; /* Adjust the width as needed */
+    }
+
+    #cv_template{
+        display: none;
+    }
+
+.myimg{
+    width: 200px;
+    border-radius: 50%;
+}
+.background{
+    background-color: aqua;
+}
